@@ -1,0 +1,27 @@
+{
+  "name": "using-the-module",
+  "version": "1.0.0",
+  "description": "A project that uses the NPM module created in the master branch.",
+  "main": "execute-this.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adron/javascript-toolset-module-01-b.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "Adron Hall <adronhall@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Adron/javascript-toolset-module-01-b/issues"
+  },
+  "homepage": "https://github.com/Adron/javascript-toolset-module-01-b#readme",
+  "devDependencies": {
+    "friendly-funicular": "^1.0.0"
+  }
+}
